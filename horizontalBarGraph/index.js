@@ -253,7 +253,7 @@
         const parsedStreamJson = (d) => d.split("\n").filter(s => s.length > 0)
             .map((s) => JSON.parse(s));
 
-        d3.text("categoryIndexData/categoryIndexData.txt",
+        d3.text("categoryIndexData.txt",
                 (d) => parseData(parsedStreamJson(d)));
 
     };

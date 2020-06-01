@@ -197,7 +197,7 @@
             .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
         const parsedStreamJson = (d) => JSON.parse(d);
-        d3.text("rawData/barChartData.txt",
+        d3.text("barChartData.txt",
                 (e, d) => parseData(svgShift, parsedStreamJson(d)));
 
     };

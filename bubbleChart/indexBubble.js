@@ -334,7 +334,7 @@
             .map((s) => JSON.parse(s));
 
 
-        d3.text("bubbleChartData/bubbleMatrixData.txt", (d) => parseData(parsedStreamJson(d)));
+        d3.text("bubbleMatrixData.txt", (d) => parseData(parsedStreamJson(d)));
 
     }
 
