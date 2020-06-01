@@ -1,0 +1,11 @@
+{"category":"Communication Services","Index":135}
+{"category":"Energy","Index":72}
+{"category":"Health Care","Index":288}
+{"category":"Real Estate","Index":264}
+{"category":"Energy","Index":598}
+{"category":"Consumer Discretionary","Index":769}
+{"category":"Material","Index":223}
+{"category":"Information Technology","Index":52}
+{"category":"Industrials","Index":430}
+{"category":"Utilities","Index":258}
+{"category":"Financials","Index":23}

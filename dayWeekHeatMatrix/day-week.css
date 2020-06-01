@@ -1,0 +1,23 @@
+rect.bordered {
+    stroke: #4c4c4c;
+    stroke-width:0.2px;
+}
+
+text.mono {
+    font-size: 7.5pt;
+    font-family: Avenir;
+    fill: #000000;
+}
+
+text.axis-workweek {
+    fill: #000;
+}
+
+
+.d3-tip {
+    font-family: Avenir;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 8px;
+    color: #fff;
+    z-index: 5070;
+}

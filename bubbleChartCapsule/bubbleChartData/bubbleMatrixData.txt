@@ -1,0 +1,131 @@
+{"category":"Energy","hour":"6 AM","Index":0.0}
+{"category":"Energy","hour":"7 AM","Index":0.0}
+{"category":"Energy","hour":"8 AM","Index":0.0}
+{"category":"Energy","hour":"9 AM","Index":0.0}
+{"category":"Energy","hour":"10 AM","Index":0.0}
+{"category":"Energy","hour":"11 AM","Index":0.0}
+{"category":"Energy","hour":"12 PM","Index":0.0}
+{"category":"Energy","hour":"1 PM","Index":0.0}
+{"category":"Energy","hour":"2 PM","Index":0.0}
+{"category":"Energy","hour":"3 PM","Index":0.0}
+{"category":"Energy","hour":"4 PM","Index":1.0}
+{"category":"Energy","hour":"5 PM","Index":0.0}
+{"category":"Energy","hour":"6 PM","Index":1.0}
+{"category":"Energy","hour":"7 PM","Index":1.0}
+{"category":"Energy","hour":"8 PM","Index":0.0}
+{"category":"Energy","hour":"9 PM","Index":1.5}
+{"category":"Energy","hour":"10 PM","Index":2.0}
+{"category":"Energy","hour":"11 PM","Index":1.0}
+{"category":"Energy","hour":"12 AM","Index":1.0}
+{"category":"Consumer Staples","hour":"6 AM","Index":0.0}
+{"category":"Consumer Staples","hour":"7 AM","Index":0.0}
+{"category":"Consumer Staples","hour":"8 AM","Index":0.0}
+{"category":"Consumer Staples","hour":"9 AM","Index":1.0}
+{"category":"Consumer Staples","hour":"10 AM","Index":1.0}
+{"category":"Consumer Staples","hour":"11 AM","Index":0.0}
+{"category":"Consumer Staples","hour":"12 PM","Index":0.0}
+{"category":"Consumer Staples","hour":"1 PM","Index":0.0}
+{"category":"Consumer Staples","hour":"2 PM","Index":0.0}
+{"category":"Consumer Staples","hour":"3 PM","Index":0.0}
+{"category":"Consumer Staples","hour":"4 PM","Index":1.0}
+{"category":"Consumer Staples","hour":"5 PM","Index":1.0}
+{"category":"Consumer Staples","hour":"6 PM","Index":1.0}
+{"category":"Consumer Staples","hour":"7 PM","Index":1.0}
+{"category":"Consumer Staples","hour":"8 PM","Index":1.0}
+{"category":"Consumer Staples","hour":"9 PM","Index":1.0}
+{"category":"Consumer Staples","hour":"10 PM","Index":1.5}
+{"category":"Consumer Staples","hour":"11 PM","Index":1.0}
+{"category":"Consumer Staples","hour":"12 AM","Index":0.0}
+{"category":"Health Care","hour":"6 AM","Index":0.0}
+{"category":"Health Care","hour":"7 AM","Index":0.0}
+{"category":"Health Care","hour":"8 AM","Index":0.0}
+{"category":"Health Care","hour":"9 AM","Index":0.0}
+{"category":"Health Care","hour":"10 AM","Index":1.0}
+{"category":"Health Care","hour":"11 AM","Index":1.0}
+{"category":"Health Care","hour":"12 PM","Index":1.5}
+{"category":"Health Care","hour":"1 PM","Index":1.0}
+{"category":"Health Care","hour":"2 PM","Index":1.0}
+{"category":"Health Care","hour":"3 PM","Index":1.0}
+{"category":"Health Care","hour":"4 PM","Index":0.0}
+{"category":"Health Care","hour":"5 PM","Index":2.0}
+{"category":"Health Care","hour":"6 PM","Index":2.0}
+{"category":"Health Care","hour":"7 PM","Index":1.0}
+{"category":"Health Care","hour":"8 PM","Index":1.0}
+{"category":"Health Care","hour":"9 PM","Index":0.0}
+{"category":"Health Care","hour":"10 PM","Index":0.0}
+{"category":"Health Care","hour":"11 PM","Index":0.0}
+{"category":"Health Care","hour":"12 AM","Index":0.0}
+{"category":"Real Estate","hour":"6 AM","Index":0.0}
+{"category":"Real Estate","hour":"7 AM","Index":1.5}
+{"category":"Real Estate","hour":"8 AM","Index":1.0}
+{"category":"Real Estate","hour":"9 AM","Index":1.0}
+{"category":"Real Estate","hour":"10 AM","Index":1.0}
+{"category":"Real Estate","hour":"11 AM","Index":0.0}
+{"category":"Real Estate","hour":"12 PM","Index":0.0}
+{"category":"Real Estate","hour":"1 PM","Index":1.0}
+{"category":"Real Estate","hour":"2 PM","Index":1.0}
+{"category":"Real Estate","hour":"3 PM","Index":1.0}
+{"category":"Real Estate","hour":"4 PM","Index":1.0}
+{"category":"Real Estate","hour":"5 PM","Index":1.5}
+{"category":"Real Estate","hour":"6 PM","Index":0.0}
+{"category":"Real Estate","hour":"7 PM","Index":0.0}
+{"category":"Real Estate","hour":"8 PM","Index":0.0}
+{"category":"Real Estate","hour":"9 PM","Index":0.0}
+{"category":"Real Estate","hour":"10 PM","Index":0.0}
+{"category":"Real Estate","hour":"11 PM","Index":0.0}
+{"category":"Real Estate","hour":"12 AM","Index":1.0}
+{"category":"Information Technology","hour":"6 AM","Index":0.0}
+{"category":"Information Technology","hour":"7 AM","Index":0.0}
+{"category":"Information Technology","hour":"8 AM","Index":0.0}
+{"category":"Information Technology","hour":"9 AM","Index":1.0}
+{"category":"Information Technology","hour":"10 AM","Index":0.0}
+{"category":"Information Technology","hour":"11 AM","Index":0.0}
+{"category":"Information Technology","hour":"12 PM","Index":0.0}
+{"category":"Information Technology","hour":"1 PM","Index":1.0}
+{"category":"Information Technology","hour":"2 PM","Index":1.0}
+{"category":"Information Technology","hour":"3 PM","Index":1.0}
+{"category":"Information Technology","hour":"4 PM","Index":1.5}
+{"category":"Information Technology","hour":"5 PM","Index":0.0}
+{"category":"Information Technology","hour":"6 PM","Index":2.5}
+{"category":"Information Technology","hour":"7 PM","Index":1.5}
+{"category":"Information Technology","hour":"8 PM","Index":1.5}
+{"category":"Information Technology","hour":"9 PM","Index":1.5}
+{"category":"Information Technology","hour":"10 PM","Index":0.0}
+{"category":"Information Technology","hour":"11 PM","Index":0.0}
+{"category":"Information Technology","hour":"12 AM","Index":2.5}
+{"category":"Financials","hour":"6 AM","Index":2.5}
+{"category":"Financials","hour":"7 AM","Index":1.0}
+{"category":"Financials","hour":"8 AM","Index":1.0}
+{"category":"Financials","hour":"9 AM","Index":0.0}
+{"category":"Financials","hour":"10 AM","Index":1.0}
+{"category":"Financials","hour":"11 AM","Index":2.0}
+{"category":"Financials","hour":"12 PM","Index":0.0}
+{"category":"Financials","hour":"1 PM","Index":0.0}
+{"category":"Financials","hour":"2 PM","Index":1.0}
+{"category":"Financials","hour":"3 PM","Index":2.5}
+{"category":"Financials","hour":"4 PM","Index":0.0}
+{"category":"Financials","hour":"5 PM","Index":0.0}
+{"category":"Financials","hour":"6 PM","Index":0.0}
+{"category":"Financials","hour":"7 PM","Index":0.0}
+{"category":"Financials","hour":"8 PM","Index":1.0}
+{"category":"Financials","hour":"9 PM","Index":1.0}
+{"category":"Financials","hour":"10 PM","Index":1.0}
+{"category":"Financials","hour":"11 PM","Index":0.0}
+{"category":"Financials","hour":"12 AM","Index":2.0}
+{"category":"Utilities","hour":"6 AM","Index":2.0}
+{"category":"Utilities","hour":"7 AM","Index":2.0}
+{"category":"Utilities","hour":"8 AM","Index":2.0}
+{"category":"Utilities","hour":"9 AM","Index":1.5}
+{"category":"Utilities","hour":"10 AM","Index":2.0}
+{"category":"Utilities","hour":"11 AM","Index":0.0}
+{"category":"Utilities","hour":"12 PM","Index":0.0}
+{"category":"Utilities","hour":"1 PM","Index":0.0}
+{"category":"Utilities","hour":"3 PM","Index":1.5}
+{"category":"Utilities","hour":"5 PM","Index":2.0}
+{"category":"Utilities","hour":"6 PM","Index":0.0}
+{"category":"Utilities","hour":"7 PM","Index":4.0}
+{"category":"Utilities","hour":"8 PM","Index":0.0}
+{"category":"Utilities","hour":"9 PM","Index":1.0}
+{"category":"Utilities","hour":"10 PM","Index":0.0}
+{"category":"Utilities","hour":"11 PM","Index":2.0}
+{"category":"Utilities","hour":"12 AM","Index":0.0}

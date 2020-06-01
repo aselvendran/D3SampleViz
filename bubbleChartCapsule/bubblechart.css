@@ -1,0 +1,77 @@
+.chart rect {
+    fill: steelblue;
+}
+
+.chart rect:hover {
+    fill: turquoise;
+}
+
+.chart .rectM {
+    stroke: green;
+    stroke-width: 1;
+    fill: green;
+    fill-opacity: .2;
+}
+
+.chart .rectM:hover {
+    fill: green;
+    fill-opacity: .5;
+}
+
+.chart text {
+    font: 12px Avenir;
+}
+
+.chart .title {
+    font: 15px Avenir;
+}
+
+/*.axis path,*/
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+/*.y.axis path,*/
+.y.axis .tick line {
+    stroke-width: 1;
+    stroke: rgba(0, 0, 0, .2);
+
+}
+
+.x.axis .tick line {
+    stroke-width: 1;
+    stroke: rgba(0, 0, 0, .2);
+
+}
+
+.grid line {
+    stroke: lightgrey;
+    stroke-opacity: 0.7;
+    shape-rendering: crispEdges;
+}
+
+.grid path {
+    stroke-width: 0;
+}
+
+.legend rect {
+    fill: white;
+    stroke: black;
+    opacity: 0.8;
+}
+
+.d3-tip {
+    font-family: Avenir;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 8px;
+    color: #fff;
+    z-index: 5070;
+}
+
+.legend {
+    font-size: 16px;
+    font-weight: bold;
+    text-anchor: right;
+}

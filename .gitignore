@@ -1,0 +1,9 @@
+node_modules
+
+/.idea
+
+*.tsv
+*.json
+*.csv
+
+.DS_Store
